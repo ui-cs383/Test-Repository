@@ -7,3 +7,5 @@ Please feel free to break this however you want, the idea for this repository is
 concurrent git works from a base repository.
 
 Testing git-bash's push/commit features.
+
+leit7193 - edited to make sure I'm allowed to commit
