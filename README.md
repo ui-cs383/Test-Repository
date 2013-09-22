@@ -9,3 +9,5 @@ concurrent git works from a base repository.
 Testing git-bash's push/commit features.
 
 leit7193 - edited to make sure I'm allowed to commit
+
+Greg-Donaldson - See above comment.
